@@ -17,6 +17,15 @@ library
   hs-source-dirs:      src
   exposed-modules:     Data.Todo
   build-depends:       base >= 4.7 && < 5
+                     , mtl
+                     , transformers
+                     , time
+                     , text
+                     , resourcet
+                     , monad-logger
+                     , persistent
+                     , persistent-template
+                     , persistent-sqlite
   default-language:    Haskell2010
 
 test-suite todo-test

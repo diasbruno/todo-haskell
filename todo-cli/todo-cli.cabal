@@ -2,7 +2,7 @@ name:                todo-cli
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/diasbruno/todo-cli#readme
+homepage:            https://github.com/diasbruno/todo/todo-cli#readme
 license:             BSD3
 license-file:        license.md
 author:              Bruno Dias
